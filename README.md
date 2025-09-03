@@ -1,4 +1,4 @@
-# Projects
+# Projetos
 
 Aqui irei postar meus projetos de estudo independente, ideias e inspiracoes.
 
