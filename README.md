@@ -1,2 +1,2 @@
 # Projects
-Aqui vou postar meus projetos feitos de maneira independente (para estudar)
+Here i will post some of my study projects and ideas.
