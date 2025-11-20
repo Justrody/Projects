@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+:root {
+    --font-large: 3rem;
+    --font-medium: 2rem;
+    --font-default: 1.2rem;
+    --font-small: 1rem;
+    --font-extra-small: .8rem;
+}
+
+@media screen and (max-width: 968px) {
+    :root {
+        --font-large: 2rem;
+        --font-medium: 2.5rem;
+        --font-default: 1.2rem;
+        --font-small: 1rem;
+        --font-extra-small: .8rem;
+    } 
+}
+
+.no-select {
+  -webkit-user-select: none;
+  -ms-user-select: none;   
+  user-select: none;         
+}

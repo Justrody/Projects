@@ -1,0 +1,108 @@
+/*
+ (particularmente eu prefiro usar mediaquery na responsividade de temas do site, contudo fiz como a rocketseat ensinou alterando o layout deles para um que eu considero mais agradavel e visualmente moderno.
+ espero que gostem do projeto :3 #i love rocketseat
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-main: #000000;
+
+        --text-primary: #ffffffbe;
+        --text-secondary: #d1d0db98;
+        --text-tertiary: #ffffff;
+
+        --accent-color: #e2deff1a;
+        --brand-color: #ffffff;
+
+        --background-glass: rgba(8, 8, 8, 0.144);
+        --stroke-glass: rgba(48, 48, 48, 0.137);
+
+        --background-cards: #ffffff;
+        --stroke-cards: #b4b3bd44;
+
+    }
+        .linktree-btn {
+        img {
+            filter: invert(100);
+        }
+    }
+}
+@media (prefers-color-scheme: light) {
+    :root {
+        --background-main: #ffffff;
+
+        --text-primary: #020202;
+        --text-secondary: #a6a4bb98;
+        --text-tertiary: #ffffff98;
+
+        --accent-color: #000000;
+        --brand-color: #ffffff;
+
+        --background-glass: rgba(238, 238, 238, 0.418);
+        --stroke-glass: rgba(185, 185, 185, 0.137);
+
+        --background-cards: #ffffff;
+        --stroke-cards: #b4b3bd44;
+
+    }
+    .banner {
+        filter: invert(100);
+    }
+} */
+
+
+html.light {
+        --background-main: #ffffff;
+
+        --text-primary: #020202;
+        --text-secondary: #a6a4bb98;
+        --text-tertiary: #ffffff98;
+
+        --accent-color: #000000;
+        --brand-color: #ffffff;
+
+        --background-glass: rgba(238, 238, 238, 0.418);
+        --stroke-glass: rgba(185, 185, 185, 0.137);
+
+        --background-cards: #ffffff;
+        --stroke-cards: #b4b3bd44;
+    .banner {
+        filter: invert(100);
+    }
+    .linktree-btn {
+        img {
+            filter: invert(0);
+        }
+    }
+    body {
+        animation: popIn2 .5s ease;
+    }
+}
+    :root {
+        --background-main: #000000;
+
+        --text-primary: #ffffffbe;
+        --text-secondary: #d1d0db98;
+        --text-tertiary: #ffffff;
+
+        --accent-color: #e2deff1a;
+        --brand-color: #ffffff;
+
+        --background-glass: rgba(8, 8, 8, 0.144);
+        --stroke-glass: rgba(48, 48, 48, 0.137);
+
+        --background-cards: #ffffff;
+        --stroke-cards: #b4b3bd44;
+
+    }
+        .linktree-btn {
+        img {
+            filter: invert(100);
+        }
+    }
+
+.jetbrains-mono {
+    font-family: jetbrains-mono, monospace;
+}
+
+.jetbrains-mono {
+    font-family: jetbrains-mono, monospace;
+}
