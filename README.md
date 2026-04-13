@@ -1,6 +1,6 @@
 # Projetos
 
-Aqui irei postar meus projetos de estudo independente, ideias e inspiracoes.
+Este espaço é dedicado aos meus projetos de estudo independente, conceitos criativos e referências técnicas.
 
 # Organização dos posts:
 
