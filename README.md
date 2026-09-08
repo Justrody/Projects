@@ -9,3 +9,5 @@ Este espaço é dedicado aos meus projetos de estudo independente, conceitos cri
 Cada projeto conterá um arquivo README.md com:
 A categoria (ex.: design, script, outro).
 Uma breve descrição do projeto.
+
+## ABANDONADO
